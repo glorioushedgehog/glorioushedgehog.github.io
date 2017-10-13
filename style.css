@@ -3,6 +3,17 @@ body {
     background-size: cover;
 }
 
+.intro {
+    background-color: #d7d9d8;
+    color: #011900;
+}
+
 .swapper {
-    background-color: #c9bd9b;
+    background-color: #e4dfbc;
+    color: #430200;
+}
+
+.little-rat {
+    background: #d1ced9;
+    color: #020043;
 }
