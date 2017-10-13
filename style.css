@@ -4,16 +4,16 @@ body {
 }
 
 .intro {
-    background-color: rgb(215, 217, 216);
-    color: rgb(1, 25, 0);
+    background-color: #d7d9d8;
+    color: #011900;
 }
 
 .swapper {
-    background-color: rgb(228, 223, 188);
-    color: rgb(67, 2, 0);
+    background-color: #e4dfbc;
+    color: #430200;
 }
 
 .little-rat {
-    background: rgb(209, 206, 217);
-    color: rgb(0, 7, 67);
+    background: #d1ced9;
+    color: #000743;
 }
