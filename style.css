@@ -1,0 +1,8 @@
+body {
+    background: url("background.JPG") no-repeat fixed;
+    background-size: cover;
+}
+
+.swapper {
+    background-color: #c9bd9b;
+}
