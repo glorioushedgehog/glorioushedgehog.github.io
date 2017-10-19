@@ -2,18 +2,6 @@ body {
     background: url("background.JPG") no-repeat fixed;
     background-size: cover;
 }
-
-.intro {
-    background-color: #d7d9d8;
-    color: #011900;
-}
-
-.swapper {
-    background-color: #e4dfbc;
-    color: #430200;
-}
-
-.little-rat {
-    background: #d1ced9;
-    color: #000743;
+h2, h6 {
+    padding-top: 3vh;
 }
